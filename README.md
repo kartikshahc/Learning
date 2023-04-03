@@ -7,3 +7,7 @@
 ### Chat GPT
 1. Download on local and use it: https://github.com/nomic-ai/gpt4all
 2. Use with browser: https://nat.dev/
+
+
+### Reference links:
+1. https://github.com/kahowell?tab=repositories
