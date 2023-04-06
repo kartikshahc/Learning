@@ -4,6 +4,9 @@
 2. ActiveMQ
   - https://activemq.apache.org/components/artemis/documentation/1.3.0/protocols-interoperability.html
   - https://activemq.apache.org/components/artemis/documentation/latest/openwire.html
+  - https://smallrye.io/smallrye-reactive-messaging/smallrye-reactive-messaging/3.4/amqp/amqp.html : AMQP
+  - https://smallrye.io/smallrye-reactive-messaging/smallrye-reactive-messaging/3.4/jms/jms.html  : JMS
+  - https://www.youtube.com/watch?v=6VGLl3qktVQ
   - 
 3. Quarkus
   - https://quarkus.io/guides/lifecycle
@@ -16,11 +19,15 @@
   - https://quarkus.io/guides/getting-started-testing
   - https://www.baeldung.com/java-quarkus-testing
   - https://www.youtube.com/watch?v=y6B8mXEv5gA
+  - https://mvnrepository.com/artifact/io.quarkus/quarkus-bom/2.16.4.Final
+  - 
 4. https://mkyong.com/java8/java-8-streams-filter-examples/
 5. Mockito examples:
   - https://www.digitalocean.com/community/tutorials/mockito-argumentcaptor-captor-annotation
   - https://github.com/WebJournal/journaldev/tree/master/Mockito-Examples
-6. 
+6. Kafka
+  - https://quarkus.io/guides/kafka
+7. 
 ---------------
 
 ### Chat GPT
