@@ -35,6 +35,7 @@
   - https://github.com/WebJournal/journaldev/tree/master/Mockito-Examples
 6. Kafka
   - https://quarkus.io/guides/kafka
+  - https://www.baeldung.com/ops/kafka-docker-setup
 7. Gradle
   - https://docs.gradle.org/current/dsl/org.gradle.api.Project.html#N14F14
 8. Connect with in-memory h2
@@ -54,6 +55,8 @@
 ### Podman
 - https://docs.podman.io/en/latest/Commands.html
 
+### Docker
+- https://docs.docker.com/engine/reference/commandline/compose_ps/
 -----------------
 
 ### Chat GPT
