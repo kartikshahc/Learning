@@ -25,6 +25,8 @@
   - https://www.youtube.com/watch?v=y6B8mXEv5gA
   - https://mvnrepository.com/artifact/io.quarkus/quarkus-bom/2.16.4.Final
   - https://github.com/quarkusio/quarkus-quickstarts
+  - https://www.baeldung.com/java-quarkus-testing
+  - https://quarkus.io/guides/datasource
   - 
   - 
 4. https://mkyong.com/java8/java-8-streams-filter-examples/
@@ -35,12 +37,22 @@
   - https://quarkus.io/guides/kafka
 7. Gradle
   - https://docs.gradle.org/current/dsl/org.gradle.api.Project.html#N14F14
-8. 
+8. Connect with in-memory h2
+  - http://www.hsqldb.org/doc/1.8/src/org/hsqldb/jdbc/jdbcConnection.html 
+9. https://www.baeldung.com/java-custom-annotation
+10. Opentelemetry:
+  - https://github.com/open-telemetry/opentelemetry-collector-releases/blob/main/distributions/otelcol-contrib/manifest.yaml
+11. d
 ---------------
 
 ### Kubernetes
 - https://kubernetes.io/docs/tasks/inject-data-application/define-environment-variable-container/
-- 
+- https://www.jenkins.io/doc/pipeline/steps/kubernetes/
+
+-----------------
+
+### Podman
+- https://docs.podman.io/en/latest/Commands.html
 
 -----------------
 
